@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.webp" width="100%" alt="DevSecOps Engineer: secure, automated delivery pipelines for Saudi government platforms"></p>
+
 <h1 align="center">Islam Handousa</h1>
 
 <p align="center"><b>DevSecOps Engineer</b> · Riyadh, Saudi Arabia<br>
