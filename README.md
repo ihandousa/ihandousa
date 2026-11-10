@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ihandousa/"><img src="https://img.shields.io/badge/LinkedIn-ihandousa-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:ihandousa@outlook.com"><img src="https://img.shields.io/badge/Email-ihandousa%40outlook.com-5EC8F2?style=for-the-badge" alt="Email"></a>
+  <a href="https://gitlab.com/ihandousa"><img src="https://img.shields.io/badge/GitLab-ihandousa-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
   <a href="https://www.credly.com/users/islam-handousa"><img src="https://img.shields.io/badge/Credly-Verified_badges-FF6B00?style=for-the-badge" alt="Credly"></a>
 </p>
 
@@ -19,6 +20,16 @@ DevSecOps Engineer with **9+ years in software engineering** and **3+ years secu
 - **Axelerated Solutions** · NGINX Engineer (contract) for a Saudi government entity: NGINX Ingress Controller and NGINX Instance Manager across 6 Kubernetes clusters.
 
 A developer background in .NET Core and Next.js means vulnerabilities get fixed in code, not just reported.
+
+## My lab on GitLab: [k8s-local-lab](https://gitlab.com/k8s-local-lab)
+
+A kubeadm Kubernetes cluster on local VMs, run entirely through GitLab CI and Argo CD. Nothing is installed or changed by hand: every change is a commit.
+
+| Project | What it shows |
+| --- | --- |
+| [lab-platform](https://gitlab.com/k8s-local-lab/lab-platform) | Argo CD app-of-apps for 15 platform components in sync waves: MetalLB, cert-manager, Sealed Secrets, NGINX Ingress Controller, Kyverno, Prometheus and Grafana, Loki and Alloy, Falco, Velero |
+| [testapp](https://gitlab.com/k8s-local-lab/testapp) | GitLab CI DevSecOps pipeline: Gitleaks, Semgrep and Trivy gates; build once; keyless Cosign signing, SBOM and SLSA provenance; dev, staging and prod promotion through GitOps |
+| [testapp-gitops](https://gitlab.com/k8s-local-lab/testapp-gitops) | Kustomize overlays per environment, hardened Deployment, sealed pull secrets, digest bumps written only by CI |
 
 ## What I do
 
