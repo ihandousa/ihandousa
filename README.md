@@ -102,16 +102,24 @@ A developer background in .NET Core and Next.js means vulnerabilities get fixed 
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://www.credly.com/org/gitlab/badge/gitlab-solutions-architect-core-verified-associate" title="GitLab Solutions Architect Core Verified Associate">
+      <a href="https://www.credly.com/badges/a2c8e15d-fd36-405e-9549-5db7dcf8e388" title="GitLab Solutions Architect Core Verified Associate">
         <img src="https://images.credly.com/images/5b846e16-a9ba-4bc6-b9c0-86beeee8d2ce/image.png" height="110" alt="GitLab Solutions Architect"><br>
         <b>GitLab Solutions Architect</b><br>
         <sub>Core Verified Associate</sub>
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://www.credly.com/users/islam-handousa" title="AWS Partner credentials on Credly">
-        <img src="https://img.shields.io/badge/AWS_Partner-DevOps_Essentials-232F3E?style=for-the-badge" alt="AWS Partner: DevOps Essentials"><br><br>
-        <img src="https://img.shields.io/badge/AWS_Partner-Technical_Accredited-232F3E?style=for-the-badge" alt="AWS Partner: Technical Accredited">
+      <a href="https://www.credly.com/badges/ba935f70-4ca1-4119-a930-18e339f533cd" title="AWS Partner: DevOps Essentials">
+        <img src="https://images.credly.com/images/c5a5506c-0b33-4fcc-9d6e-c81eac6a2a6a/blob" height="110" alt="AWS Partner: DevOps Essentials"><br>
+        <b>AWS Partner</b><br>
+        <sub>DevOps Essentials</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/4f350826-61d0-4e65-b04b-e2e3250d4958" title="AWS Partner: Technical Accredited">
+        <img src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/blob" height="110" alt="AWS Partner: Technical Accredited"><br>
+        <b>AWS Partner</b><br>
+        <sub>Technical Accredited</sub>
       </a>
     </td>
   </tr>
